@@ -1,6 +1,7 @@
 /* Font import */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700&display=swap');
 
+
 /* Vars */
 :root { 
     --black: #000;
@@ -8,8 +9,9 @@
     --blue: #2972FF;
     --gray: #E5E5E5;
 }
-/* Base style */
 
+
+/* Base style */
 
 html {
     font-size: 18px;
